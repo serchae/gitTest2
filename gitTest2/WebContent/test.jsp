@@ -15,7 +15,7 @@
 	</ul>
 	<ul>
 	<li>git pull</li>
-	<li>gut log</li>
+	<li>git log</li>
 	<li>git commit</li>
 	</ul>
 </body>
